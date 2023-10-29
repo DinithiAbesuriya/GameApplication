@@ -12,4 +12,8 @@ Users are tasked with matching titles, which often involves matching a set of it
 In the Emoji Game, participants engage in a guessing challenge based on a series of emojis.
 Their objective is to deduce the word or phrase that corresponds to the provided emojis. This game assesses users' ability to associate visual symbols with language, enhancing their word association skills and creative thinking.
 
+# GUI
+<img width="459" alt="image" src="https://github.com/DinithiAbesuriya/GameApplication/assets/88774420/b79030bf-a2c3-4adb-86ff-c3eb7b6aa280">
+
+
 Each of these games offers a unique challenge, contributing to a well-rounded user experience that incorporates mathematics, memory, and word association skills. This project reflects a comprehensive approach to game development, designed to stimulate and test users' cognitive abilities.
