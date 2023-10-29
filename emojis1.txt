@@ -1,0 +1,3 @@
+
+/Users/dinithi/Desktop/3rd Year 1st Semester/CIS/Assignment/gamepictures/EmojiApiImages/pic1.png , angry bird
+/Users/dinithi/Desktop/3rd Year 1st Semester/CIS/Assignment/gamepictures/EmojiApiImages/pic2.png , onion ring
