@@ -1,5 +1,5 @@
 # GameApplication
-This project was developed as part of an assignment for the Comparative Integrated Systems module at the University of Bedfordshire (UOB). The application comprises three distinct games, each designed to engage users in different challenges.
+This project was developed as part of an assignment for the Comparative Integrated Systems module at the University of Bedfordshire (UOB). The application comprises three distinct games, each designed to engage users in different challenges.This project was developed using Java as programming language,JFrame forms for the user interface and NetBeans as the development platform.
 ## Smile Game: Mathematical Challenge
 In the Smile Game, users face a mathematical challenge adorned with a cheerful smile emoji.
 Their objective is to calculate and provide the precise numerical value to correctly solve the presented mathematical question. This game not only tests users' mathematical skills but also their ability to apply logic and calculations effectively.
